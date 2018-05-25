@@ -65,6 +65,16 @@ The classes are:
 	- createAnchorNoParagraph
 	- createTextFormatting
 
+##Code Example
+On test directory you can find some Junit Test that create some word document. The test classes are:
+- CreateReport
+  - createReportTextFormat - create document with many text formatting
+  - createReportStyle - create document that use / overwrite default style of word document
+  - createTable - create document with table
+  - createReportDoubleColumn - create document with several break page to create double column template document
+  - completeReport - create complete word document with several object 
+- CreateSectionReport
+  - createDefaultReport
 	
 	
 	
