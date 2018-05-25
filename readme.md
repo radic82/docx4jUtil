@@ -75,6 +75,3 @@ On test directory you can find some Junit Test that create some word document. T
   - completeReport - create complete word document with several object 
 - CreateSectionReport
   - createDefaultReport
-	
-	
-	
