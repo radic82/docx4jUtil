@@ -110,7 +110,6 @@ public class CreateSectionReport {
 		}};
 	}
 
-
 	@After
 	public void after() {
 		sections = null;
