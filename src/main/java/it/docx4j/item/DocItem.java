@@ -9,8 +9,8 @@ import java.io.Serializable;
  */
 public abstract class DocItem implements Serializable {
 
-	private String styleId;
-	private IDocxObjectStyle style;
+	protected String styleId;
+	protected IDocxObjectStyle style;
 
 	public IDocxObjectStyle getStyle() {
 		return style;
