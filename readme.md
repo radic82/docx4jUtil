@@ -1,5 +1,5 @@
 # Docx4jUtil - Utility class create MS office word document based on [DOCX4J Library](https://www.docx4java.org/trac/docx4j)
-[Here can you find Class Diagram](ClassDiagram.png)
+[Here you can find Class Diagram](ClassDiagram.png)
 
 This Lib (classes) helps you to create docx document. 
 The factory classes contained on util package are the core of lib. This classes have most methods to compose docx. 
