@@ -524,5 +524,4 @@ public class StyleFactory {
 		ppr.setSectPr(sectPr);
 		return ppr;
 	}
-
 }
